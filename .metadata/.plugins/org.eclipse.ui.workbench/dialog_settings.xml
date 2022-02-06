@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="dialogHeight" value="-1"/>
+		<item key="dialogWidth" value="-1"/>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textEntries">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/stevenpham/Downloads/hw06.zip"/>
+			<item value="/Users/stevenpham/Downloads/hw05.zip"/>
+			<item value="/Users/stevenpham/Downloads/inclass37.zip"/>
+			<item value="/Users/stevenpham/Downloads/hw306.zip"/>
+			<item value="/Users/stevenpham/Downloads/hw305.zip"/>
+			<item value="/Users/stevenpham/Downloads/hw304.zip"/>
+			<item value="/Users/stevenpham/Downloads/hw303.zip"/>
+			<item value="/Users/stevenpham/Downloads/hw302.zip"/>
+			<item value="/Users/stevenpham/Downloads/hw301.zip"/>
+			<item value="/Users/stevenpham/Downloads/inclass20.zip"/>
+			<item value="/Users/stevenpham/Downloads/hw02-final.zip"/>
+			<item value="/Users/stevenpham/Downloads/inClass13.zip"/>
+			<item value="/Users/stevenpham/Downloads/hw12.zip"/>
+			<item value="/Users/stevenpham/hw2.zip"/>
+			<item value="/Users/stevenpham/shp4df-point-circle-mapinclass.zip"/>
+			<item value="/Users/stevenpham/MapInClass.zip"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="415"/>
+		<item key="DIALOG_Y_ORIGIN" value="82"/>
+	</section>
+	<section name="EditorSelectionDialog">
+	</section>
+</section>

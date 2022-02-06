@@ -1,0 +1,26 @@
+
+public class inclass5 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+	public static double points (double x1, double y1) {
+		double x1 = 4;
+		double y1 = 0.5;
+		if (x1 > 0 && y1 > 0) {
+			return x1*y1;
+		}
+			
+		if (x1 < 0 && y1 >= 0) {
+			return x1-y1;
+		}
+		if ( x1 < 0 && y1 < 0) {
+			return x1 / y1;
+		}
+		else
+			return x + y;
+					
+	}
+}

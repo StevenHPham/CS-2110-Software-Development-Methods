@@ -1,0 +1,50 @@
+
+public class inclass5 {
+
+	public static void main(String[] args) {
+		double x = 1.0;
+		double y = 4.2;
+		double res = points(x,y);
+		System.out.println(res);
+		
+		double x = 4.2;
+		double y = 1.0;
+		double res = points(x,y);
+		System.out.println(res);
+		
+		double x = -1.0;
+		double y = -4.2;
+		double res = points(x,y);
+		System.out.println(res);
+		
+		double x = -1.0;
+		double y = 4.2;
+		double res = points(x,y);
+		System.out.println(res);
+		
+		double x = 1.0;
+		double y = 4.2;
+		double res = points(x,y);
+		System.out.println(res);
+	}
+
+	public static double points (double x1, double y1) {
+		double x1 = 4;
+		double y1 = 0.5;
+		if (x1 > 0 && y1 > 0) {
+			return x1*y1;
+		}
+			
+		if (x1 < 0 && y1 >= 0) {
+			return x1-y1;
+		}
+		if ( x1 < 0 && y1 < 0) {
+			return x1 / y1;
+		}
+		else {
+			return x1 + y1;
+		}
+			
+					
+	}
+}

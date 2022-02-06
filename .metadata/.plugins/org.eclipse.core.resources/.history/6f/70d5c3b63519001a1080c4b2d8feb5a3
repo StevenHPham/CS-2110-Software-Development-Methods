@@ -1,0 +1,9 @@
+package finals;
+
+public class Soccer {
+
+	public Soccer() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

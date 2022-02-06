@@ -1,0 +1,18 @@
+package finals;
+
+public class Soccer extends Sport {
+    final int players = 11;
+   
+    public Soccer() {
+          super("Soccer", true, 10.2);
+    }
+   
+    public String toString() {
+          return this.getName() + " played with " + players + " players";
+    }
+   
+    public String getSuperString() {
+          return super.toString();
+    }
+}
+

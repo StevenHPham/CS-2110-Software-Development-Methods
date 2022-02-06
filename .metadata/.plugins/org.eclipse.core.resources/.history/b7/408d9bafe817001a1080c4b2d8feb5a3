@@ -1,0 +1,52 @@
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class TreeNodeTest3 {
+
+	@Test
+	public void testFind() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testInsert() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsLeaf() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testMinVal() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSize() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testHeight() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testInOrder() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testPostOrder() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testToString() {
+		fail("Not yet implemented");
+	}
+
+}
